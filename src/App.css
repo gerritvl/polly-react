@@ -20,8 +20,7 @@
 }
 
 .App-main {
-  width: 95vw;
-  height: 90vh;
+  width: 95%;
   border-radius: 8px;
   border: 1px solid #e7ebee;
   margin: 24px auto;
